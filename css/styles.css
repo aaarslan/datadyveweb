@@ -185,7 +185,7 @@ p {
 }
 
 
-@media (max-width: 1028px) {
+@media (max-width: 1350px) {
 
   #title {
     text-align: center;
@@ -194,5 +194,9 @@ p {
   .title-image {
     position: static;
     transform: rotate(0);
+  }
+  .bottom-image {
+    position: static;
+    height: 60%
   }
 }
