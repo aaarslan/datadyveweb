@@ -8,7 +8,7 @@
   },
   "author": "Abdallah",
   "license": "ISC",
-  "homepage": "https://aaarslan.github.io/datadyveweb"
+  "homepage": "https://aaarslan.github.io/datadyveweb",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
